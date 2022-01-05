@@ -89,6 +89,8 @@ const environmentMapTexture = cubeTextureLoader.load([
 // material.alphaMap = doorAlphaTexture
 // material.transparent = true
 
+
+
 const material = new THREE.MeshStandardMaterial()
 material.metalness = 0.7
 material.roughness = 0
